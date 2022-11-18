@@ -1,1 +1,1 @@
-Представление - http://polina-akishina.surge.sh/
+Visual representation - http://polina-akishina.surge.sh/
